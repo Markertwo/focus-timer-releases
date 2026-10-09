@@ -6,7 +6,7 @@
 
 ## 下载
 
-请在 [Releases](https://github.com/Markertwo/focus-timer-releases/releases/latest) 下载。Windows 用户选择 `FocusTimer-1.0.5-win-x64.exe` 安装包；需要解压即用时选择 `.zip`。安装版支持自动下载与更新，绿色版只提供下载提示。
+请在 [Releases](https://github.com/Markertwo/focus-timer-releases/releases/latest) 下载。Windows 用户选择 `FocusTimer-1.0.5-win-x64.exe` 安装包；需要解压即用时选择 `FocusTimer-1.0.5-win-x64.zip`。安装版支持自动下载与更新，绿色版只提供下载提示。
 
 程序尚未签名，首次运行可能出现 Windows 安全提示；请先核对同一 Release 的 `SHA256SUMS.txt`。遇到疑似误报请反馈，勿关闭系统防护。
 
